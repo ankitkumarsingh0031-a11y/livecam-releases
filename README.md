@@ -1,2 +1,62 @@
-# livecam-releases
-📹 Automated LiveCam releases - Updated every 10 minutes
+# 📹 LiveCam Releases
+
+![Status](https://img.shields.io/badge/status-active-success.svg)
+![Last Updated](https://img.shields.io/badge/last%20updated-2025--10--18-blue.svg)
+![Auto Upload](https://img.shields.io/badge/auto%20upload-every%2010min-orange.svg)
+
+## 🎯 About
+
+This repository contains automated releases of LiveCam footage, updated every 10 minutes.
+
+## 📥 Download Latest Version
+
+**[⬇️ Click here to download the latest livecam.zip](https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/livecam.zip)**
+
+### Alternative: Browse All Releases
+
+Visit the [Releases page](https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases) to download specific versions.
+
+## 🔄 Update Frequency
+
+- New releases are automatically generated every **10 minutes**
+- Only the latest **5 releases** are kept to save storage
+- Each release is timestamped for easy tracking
+
+## 📊 Release Information
+
+Each release includes:
+- 📦 Complete livecam.zip file
+- 🕐 Timestamp of upload
+- 📝 Automated release notes
+- 🔗 Direct download link
+
+## 🚀 Latest Release
+
+The most recent upload can always be accessed via:
+```
+https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/livecam.zip
+```
+
+## 📌 Features
+
+✅ Automated uploads every 10 minutes  
+✅ Clean, professional download links  
+✅ Automatic cleanup of old releases  
+✅ Direct download without authentication  
+✅ Timestamp tracking for each upload  
+
+## 🛠️ Technical Details
+
+- **Platform**: GitHub Releases
+- **Automation**: Python Script
+- **Update Interval**: 10 minutes
+- **Storage**: Latest 5 releases retained
+- **Access**: Public, no authentication required
+
+## 📝 License
+
+This is an automated upload repository. All content rights reserved.
+
+---
+
+*Last automated update: October 18, 2025 at 03:11:51*
