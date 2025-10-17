@@ -2,11 +2,11 @@
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2025--10--18-blue.svg)
-![Auto Upload](https://img.shields.io/badge/auto%20upload-every%2010min-orange.svg)
+![Auto Upload](https://img.shields.io/badge/auto%20upload-every%205min-orange.svg)
 
 ## 🎯 About
 
-This repository contains automated releases of LiveCam footage, updated every 10 minutes.
+This repository contains automated releases of LiveCam footage, updated every 5 minutes.
 
 ## 📥 Download Latest Version
 
@@ -18,7 +18,7 @@ Visit the [Releases page](https://github.com/ankitkumarsingh0031-a11y/livecam-re
 
 ## 🔄 Update Frequency
 
-- New releases are automatically generated every **10 minutes**
+- New releases are automatically generated every **5 minutes**
 - Only the latest **5 releases** are kept to save storage
 - Each release is timestamped for easy tracking
 
@@ -39,7 +39,7 @@ https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/dow
 
 ## 📌 Features
 
-✅ Automated uploads every 10 minutes  
+✅ Automated uploads every 5 minutes  
 ✅ Clean, professional download links  
 ✅ Automatic cleanup of old releases  
 ✅ Direct download without authentication  
@@ -49,7 +49,7 @@ https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/dow
 
 - **Platform**: GitHub Releases
 - **Automation**: Python Script
-- **Update Interval**: 10 minutes
+- **Update Interval**: 5 minutes
 - **Storage**: Latest 5 releases retained
 - **Access**: Public, no authentication required
 
@@ -59,4 +59,4 @@ This is an automated upload repository. All content rights reserved.
 
 ---
 
-*Last automated update: October 18, 2025 at 03:22:04*
+*Last automated update: October 18, 2025 at 03:33:52*
