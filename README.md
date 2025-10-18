@@ -10,7 +10,7 @@ This repository contains automated releases of LiveCam footage, updated every 5 
 
 ## 📥 Download Latest Version
 
-**[⬇️ Click here to download the latest livecam.zip](https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/livecam.zip)**
+**[⬇️ Click here to download the latest livecam.exe](https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/livecam.exe)**
 
 ### Alternative: Browse All Releases
 
@@ -25,7 +25,7 @@ Visit the [Releases page](https://github.com/ankitkumarsingh0031-a11y/livecam-re
 ## 📊 Release Information
 
 Each release includes:
-- 📦 Complete livecam.zip file
+- 📦 Complete livecam.exe file
 - 🕐 Timestamp of upload
 - 📝 Automated release notes
 - 🔗 Direct download link
@@ -34,7 +34,7 @@ Each release includes:
 
 The most recent upload can always be accessed via:
 ```
-https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/livecam.zip
+https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/livecam.exe
 ```
 
 ## 📌 Features
@@ -59,4 +59,4 @@ This is an automated upload repository. All content rights reserved.
 
 ---
 
-*Last automated update: October 19, 2025 at 02:36:44*
+*Last automated update: October 19, 2025 at 02:40:04*
